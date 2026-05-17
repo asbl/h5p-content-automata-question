@@ -1,0 +1,24 @@
+.h5p-automataquestion .h5p-automata-manual-run {
+  margin: 1rem 0;
+}
+
+.h5p-automataquestion .h5p-automata-manual-run label {
+  color: #111827;
+  display: grid;
+  font-weight: 700;
+  gap: 0.35rem;
+  max-width: 28rem;
+}
+
+.h5p-automataquestion .h5p-automata-manual-input {
+  border: 1px solid #94a3b8;
+  border-radius: 6px;
+  font: inherit;
+  padding: 0.5rem 0.65rem;
+}
+
+.h5p-automataquestion .h5p-automata-manual-input:focus {
+  border-color: #2563eb;
+  outline: 2px solid #93c5fd;
+  outline-offset: 2px;
+}
